@@ -1,0 +1,17 @@
+[
+    {
+        "imagen":"https://cdn.pixabay.com/photo/2022/08/31/02/01/akatsuki-7422263_640.png",
+        "titulo":"Primera Imagen",
+        "texto":"Emblema Akatsuki"
+    },
+    {
+        "imagen":"https://cdn.pixabay.com/photo/2022/05/17/21/41/naruto-7203817_640.jpg",
+        "titulo":"Segunda Imagen",
+        "texto":"Cara Naruto"
+    },
+    {
+        "imagen":"https://cdn.pixabay.com/photo/2022/07/20/13/45/smoke-7334191_640.jpg",
+        "titulo":"Tercera Imagen",
+        "texto":"Chakra Viento"
+    }
+]

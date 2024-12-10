@@ -1,0 +1,10 @@
+.cabecera{
+    /* background-color:red; */
+    background-image: linear-gradient(rgb(189, 185, 185) 10%, transparent 75%), url('/imagenes/portadaentera.jpg'); 
+    background-repeat:  no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:250px;
+    width: 100%;
+    
+}

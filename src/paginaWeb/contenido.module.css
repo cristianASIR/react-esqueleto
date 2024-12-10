@@ -1,0 +1,42 @@
+main{
+    background-color:rgb(111, 45, 29);
+    height:500px;
+    width:100%;
+    display:flex;
+    flex:row nowrap;
+}
+
+main section{
+    width:78%;
+    
+}
+
+main aside{
+    width:22%;
+    height: 100%;
+    background-color:rgb(129, 71, 64);
+}
+main aside iframe{
+    
+    margin-top: 10%;
+}
+nav{
+    background-color: rgb(145, 87, 87);
+    text-align: center;
+    font-size: x-large;
+    box-sizing: border-box;
+    border: black solid 1px;
+    border-radius: 5%;
+}
+
+@media (max-width:800px){
+    aside{
+        
+        display:flexbox;
+        
+    }
+    main section{
+        width:100%;
+    }
+
+  }
